@@ -1,10 +1,10 @@
 ﻿{
 	"id": "wooga123.jollycaptions",
 	"name": "Slugsign Captions",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"authors": "Wooga123",
 	"description": "Makes it easier to tell what people are saying in Slugsign.",
 	"requirements": [ "jollycoop" ],
 	"requirements_names": [ "Jolly Co-op" ],
-	"checksum_override_version": true
+	"checksum_override_version": false
 }
